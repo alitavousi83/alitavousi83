@@ -1,7 +1,7 @@
 <h1 align="center">🩵Hi👋 , I'm Ali Tavousi</h1>
-<h3 align="center">A passionate frontend developer from Iran 🦁☀️</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **RideXpress**
+- 🔭 I’m currently working on => **RideXpress**
 
 - 🌱 I’m currently learning **frontend frameworks , Product Designing , Fullstack web bootcamp**
 
