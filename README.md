@@ -1,3 +1,5 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:0EA5E9&section=header"/>
 <h1 align="center">Hi👋 , I'm <u>Ali Tavousi</u> 🩵</h1>
 <div align="center">
 
@@ -42,6 +44,9 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alitavousi83/)**https://www.linkedin.com/in/alitavousi83/**
 
+
+<div align="center">
+
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alitavousi83&show_icons=true&theme=tokyonight)
@@ -50,7 +55,19 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=alitavousi83&theme=tokyonight&row=1&column=6)
 
+</div>
+
+---
+
+<div align="center">
 
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=🚀I%20Never%20Stop%20Learning&reversal=false&fontColor=A7C7E7"/>
+
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:0EA5E9&section=footer"/>
 
 
