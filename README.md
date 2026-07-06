@@ -47,6 +47,8 @@
 
 <div align="center">
 
+<!--
+
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alitavousi83&show_icons=true&theme=tokyonight)
@@ -58,6 +60,8 @@
 </div>
 
 ---
+
+-->
 
 <div align="center">
 
