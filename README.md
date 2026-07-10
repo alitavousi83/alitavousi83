@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<!--
+
 
 ## Stats
 
@@ -61,7 +61,7 @@
 
 ---
 
--->
+
 
 <div align="center">
 
