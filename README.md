@@ -1,9 +1,10 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:0EA5E9&section=header"/>
-<h1 align="center">Hi👋 , I'm <u>Ali Tavousi</u> 🩵</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6495ED,25:4F42B5,100:0EA5E9,50:6495ED,75:7DF9FF&section=header"/>
+<h1 align="center">Hi👋 , I'm <u>Ali Tavousi</u> 🩵💻</h1>
 <div align="center">
 
-<img src='https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=A+passionate+frontend+developer;Always+Learning' />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=Front-End+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New;Passionate+About+Programming" />
+
 </div>
 
 
@@ -25,7 +26,23 @@
 ---
 <br>
 <br>
+---
 
+## 🚀 About Me
+
+I'm a passionate **Front-End Developer** from **Isfahan, Iran** who has loved programming since childhood.
+
+My journey started with Robotics and C++, later expanding into Web Development where I discovered my true passion.
+
+I enjoy creating clean, responsive, and user-friendly web applications while continuously learning modern technologies.
+
+# 🌍 Languages
+
+ Persian — Native
+
+ English — B2
+
+---
 - 🔭 I’m currently working on  => **RideXpress website**
 
 - 🌱 I’m currently learning  => **Full stack web development bootcamp**
@@ -37,6 +54,8 @@
 - ⚡ Fun fact **I`m so Talented**
 
 <br>
+
+
 
 ## 📫 Contact
 
@@ -57,9 +76,26 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=alitavousi83&theme=tokyonight&row=1&column=6)
 
-</div>
+
+
 
 ---
+<!--
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=alitavousi83&theme=tokyonight&no-frame=true&column=4)
+
+</div>
+-->
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=alitavousi83&theme=tokyo-night)
+
+</div>
+
 
 
 
