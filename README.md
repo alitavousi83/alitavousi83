@@ -52,9 +52,36 @@ I enjoy creating clean, responsive, and user-friendly web applications while con
 
 <br>
 
+---
 
+# 📌 Featured Project
 
-## 📫 Contact
+## 🚖 RideXpress
+
+A responsive intercity transportation website built using:
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+### Features
+
+✅ Responsive Design
+
+✅ Modern UI
+
+✅ Mobile Friendly
+
+✅ Clean Code
+
+🔗 Repository
+
+https://github.com/alitavousi83/RideXpress
+
+---
+
+## 🤝 Connect with Me
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alitavousi83@gmail.com) **Alitavousi83@gmail.com**
 
@@ -94,13 +121,20 @@ I enjoy creating clean, responsive, and user-friendly web applications while con
 </div>
 
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=alitavousi83&style=for-the-badge&color=0e75b6)
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</div>
 
 
 <div align="center">
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=🚀I%20Never%20Stop%20Learning&reversal=false&fontColor=A7C7E7"/>
+<img width="50%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=🚀I%20Never%20Stop%20Learning&reversal=false&fontColor=A7C7E7"/>
 
 
 </div>
