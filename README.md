@@ -19,7 +19,8 @@
 
 ## Tech Stack
 
-<img src='https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,react,nodejs,figma,vscode,vim,windows'/>
+<!--<img src='https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,react,nodejs,figma,vscode,vim,windows'/>-->
+<img src='https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,vscode,vim,windows'/>
 
 </div>
 
