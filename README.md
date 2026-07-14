@@ -7,17 +7,21 @@
 
 </div>
 
+<div align="center">
 
-## Resume
+## ────── ⋆⋅𖤓⋅⋆ ────── Resume ────── ⋆⋅𖤓⋅⋆ ──────
 
-[![Resume](https://img.shields.io/badge/Download-Resume-2563EB?style=for-the-badge)](./assets/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-persian-0A1172?style=for-the-badge)](./assets/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-English-009A44?style=for-the-badge)](./assets/Resume.pdf)
 [![Resume](https://img.shields.io/badge/website-portfolio-orange?style=for-the-badge)](./assets/Resume.pdf)
+
+</div>
 
 
 <div align="center">
   
 
-## Tech Stack
+## ────── ⋆⋅𖤓⋅⋆ ──── Tech Stack ──── ⋆⋅𖤓⋅⋆ ──────
 
 <!--<img src='https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,react,nodejs,figma,vscode,vim,windows'/>-->
 <img src='https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,vscode,vim,windows'/>
