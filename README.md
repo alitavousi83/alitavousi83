@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6495ED,25:4F42B5,100:0EA5E9,50:6495ED,75:7DF9FF&section=header"/>
 <h1 align="center">Hi👋 , I'm <u>Ali Tavousi</u> 🩵💻</h1>
 <div align="center">
