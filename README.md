@@ -95,7 +95,7 @@ https://github.com/alitavousi83/RideXpress
 <div align="center">
 
 
-
+<!--
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=alitavousi83&show_icons=true&theme=tokyonight)
@@ -106,7 +106,7 @@ https://github.com/alitavousi83/RideXpress
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alitavousi83&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+-->
 
 ---
 <!--
