@@ -12,7 +12,7 @@
 
 
 [![Resume](https://img.shields.io/badge/Resume-English-0A1172?style=for-the-badge)](/Resume/Ali_Tavousi_CV.pdf)
-[![Resume](https://img.shields.io/badge/Resume-persian-FFD700?style=for-the-badge)](./assets/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-persian-FFD700?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
 [![Resume](https://img.shields.io/badge/website-portfolio-orange?style=for-the-badge)](./assets/Resume.pdf)
 
 </div>
