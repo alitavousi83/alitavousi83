@@ -13,7 +13,7 @@
 
 [![En-Resume](https://img.shields.io/badge/Resume-English-0A1172?style=for-the-badge)](/Resume/Ali_Tavousi_CV.pdf)
 [![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-0A1172?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1QgDXNEtoF5VJrUYEe5_aCncV4iwGjfq0)
-[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-red?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1V9sfZnjY08U0n1_-ucq9Ir8Q9sXrzoTL/view?usp=sharing)
+[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-red?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1V9sfZnjY08U0n1_-ucq9Ir8Q9sXrzoTL)
 
 
 [![Fa-Resume](https://img.shields.io/badge/Resume-persian-FFD700?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
