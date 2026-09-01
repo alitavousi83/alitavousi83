@@ -12,7 +12,6 @@
 
 
 [![En-Resume](https://img.shields.io/badge/Resume-English-0A1172?style=for-the-badge)](/Resume/Ali_Tavousi_CV.pdf)
-[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-0A1172?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1QgDXNEtoF5VJrUYEe5_aCncV4iwGjfq0)
 [![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-3281B9?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1ClWADSa-3pDNG9XmJCl7v7YWWte1y0R-)
 
 
