@@ -11,17 +11,20 @@
 ## ─ ⋆⋅𖤓⋅⋆ ─ Resume ─ ⋆⋅𖤓⋅⋆ ─
 
 
-[![Resume](https://img.shields.io/badge/Resume-English-0A1172?style=for-the-badge)](/Resume/Ali_Tavousi_CV.pdf)
-[![Resume](https://img.shields.io/badge/Download_Resume-English-0A1172?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1QgDXNEtoF5VJrUYEe5_aCncV4iwGjfq0)
+[![En-Resume](https://img.shields.io/badge/Resume-English-0A1172?style=for-the-badge)](/Resume/Ali_Tavousi_CV.pdf)
+[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-0A1172?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1QgDXNEtoF5VJrUYEe5_aCncV4iwGjfq0)
+[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-red?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1V9sfZnjY08U0n1_-ucq9Ir8Q9sXrzoTL/view?usp=sharing)
 
 
-[![Resume](https://img.shields.io/badge/Resume-persian-FFD700?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
-[![Resume](https://img.shields.io/badge/Download_Resume-persian-FFD700?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1lnyoQYobfIQ2dr0Xxdf83usQOBo2MDJw)
+[![Fa-Resume](https://img.shields.io/badge/Resume-persian-FFD700?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
+[![Fa-Resume-Download](https://img.shields.io/badge/Download_Resume-persian-FFD700?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1lnyoQYobfIQ2dr0Xxdf83usQOBo2MDJw)
 
 [![Resume](https://img.shields.io/badge/website-portfolio-orange?style=for-the-badge)](./assets/Resume.pdf)
 
 
 </div>
+
+https://drive.google.com/file/d/1V9sfZnjY08U0n1_-ucq9Ir8Q9sXrzoTL/view?usp=sharing
 
 
 <div align="center">
