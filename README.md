@@ -18,7 +18,7 @@
 [![Fa-Resume](https://img.shields.io/badge/Resume-persian-c30010?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
 [![Fa-Resume-Download](https://img.shields.io/badge/Download_Resume-persian-ee656e?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1m2FfbyYFtV8aQA-f8OGU2thFC8QipaRW)
 
-[![portfolio](https://img.shields.io/badge/website-portfolio-b100c10?style=for-the-badge)](./assets/Resume.pdf)
+[![portfolio](https://img.shields.io/badge/website-portfolio-b100cd?style=for-the-badge)](./assets/Resume.pdf)
 
 
 </div>
