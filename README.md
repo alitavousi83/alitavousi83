@@ -12,13 +12,13 @@
 
 
 [![En-Resume](https://img.shields.io/badge/Resume-English-0A1172?style=for-the-badge)](/Resume/Ali_Tavousi_CV.pdf)
-[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-3281B9?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1ClWADSa-3pDNG9XmJCl7v7YWWte1y0R-)
+[![En-Resume-Download](https://img.shields.io/badge/Download_Resume-English-3281B9?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1ST0sv7JQIMe7KAxsa6A6wWss8o_GbE-V)
 
 
-[![Fa-Resume](https://img.shields.io/badge/Resume-persian-FFD700?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
-[![Fa-Resume-Download](https://img.shields.io/badge/Download_Resume-persian-FFD700?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1lnyoQYobfIQ2dr0Xxdf83usQOBo2MDJw)
+[![Fa-Resume](https://img.shields.io/badge/Resume-persian-c30010?style=for-the-badge)](/Resume/Ali_Tavousi_CV_FA.pdf)
+[![Fa-Resume-Download](https://img.shields.io/badge/Download_Resume-persian-ee656e?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1m2FfbyYFtV8aQA-f8OGU2thFC8QipaRW)
 
-[![portfolio](https://img.shields.io/badge/website-portfolio-orange?style=for-the-badge)](./assets/Resume.pdf)
+[![portfolio](https://img.shields.io/badge/website-portfolio-b100c10?style=for-the-badge)](./assets/Resume.pdf)
 
 
 </div>
