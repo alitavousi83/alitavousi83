@@ -8,6 +8,12 @@
 
 <div align="center">
 
+## ─ ⋆⋅𖤓⋅⋆ ─ Social media ─ ⋆⋅𖤓⋅⋆ ─
+[![En-Resume-Download](https://img.shields.io/badge/Instagram-page-FF00FF?logo=instagram)](https://www.instagram.com/tavoos.dev)
+[![Fa-Resume-Download](https://img.shields.io/badge/YouTube-channel-red?logo=youtube)](https://www.youtube.com/@tavoosdev)
+
+
+
 ## ─ ⋆⋅𖤓⋅⋆ ─ Resume ─ ⋆⋅𖤓⋅⋆ ─
 
 
